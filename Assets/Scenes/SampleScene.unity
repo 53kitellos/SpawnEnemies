@@ -141,6 +141,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _enemy: {fileID: 1659596272874970899, guid: fd050fda601c36f45a932d8b21b7e9f3, type: 3}
+  _spawnPoints:
+  - {x: 2, y: 2, z: -2}
+  - {x: 2, y: 1, z: 2}
+  - {x: 0, y: 3, z: 0}
+  - {x: -3, y: 0, z: 2}
+  - {x: -2, y: 0, z: 2}
+  - {x: -1, y: 1, z: 2}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
